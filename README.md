@@ -7,7 +7,7 @@
   <img src="https://github.com/Moerre/image/blob/2a865530e11e3919a630adfcea3db2189a43b3c7/MoerLogo.png" width="120px" style="filter: drop-shadow(0 0 10px #3498db);"/>
 </p>
 
-## 🌐 HARDWARE CORE : OPERATIONAL
+## 🚀 IF I CAN EXCEL, SO CAN YOU
 **PCIe Transaction Layer Architect // DMA Memory Manipulator // Kernel Logic Designer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=INIT_PCIE_GEN4_LINK...;BYPASSING_IOMMU_BARRIERS...;STREAMING_HIGH_SPEED_DATA...;DMA_ENGINE_V2_LOADED.)](https://git.io/typing-svg)
@@ -46,20 +46,31 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3>💾 Hardware Logic</h3>
       <ul>
-        <li><b>FPGA:</b> Xilinx Virtex/Artix (Vivado)</li>
-        <li><b>Protocols:</b> PCIe TLP/DLLP, AXI4-Stream</li>
-        <li><b>DMA:</b> Custom Scatter-Gather Engines</li>
+        <li><b>FPGA:</b> Xilinx Virtex/Artix</li>
+        <li><b>Protocols:</b> PCIe TLP/DLLP</li>
+        <li><b>Bus:</b> AXI4-Stream / Avalon</li>
+        <li><b>DMA:</b> Custom SG-Engines</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3>💻 Software Kernel</h3>
       <ul>
-        <li><b>Driver:</b> WDM / KMDF Frameworks</li>
-        <li><b>Memory:</b> Physical Address Mapping</li>
-        <li><b>Analysis:</b> DMA Forensics & Anti-Cheat Bypass</li>
+        <li><b>Driver:</b> WDM / KMDF Dev</li>
+        <li><b>Memory:</b> Physical Mapping</li>
+        <li><b>Logic:</b> Virtualization Tech</li>
+        <li><b>System:</b> IRQL & DPC Handling</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔍 Reverse Engineering</h3>
+      <ul>
+        <li><b>Static:</b> IDA Pro / Ghidra</li>
+        <li><b>Dynamic:</b> x64dbg / WinDbg</li>
+        <li><b>Binary:</b> Patching & Hooking</li>
+        <li><b>Analysis:</b> Protocol Reversing</li>
       </ul>
     </td>
   </tr>
