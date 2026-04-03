@@ -22,12 +22,12 @@
         <br/>
         <img src="https://img.shields.io/badge/⚡_POWER_BY-LATTE_CODE_API-EB9447?style=for-the-badge&logo=fastapi&logoColor=white" />
         <br/><br/>
-        <a href="https://lattecode.cn/">
-          <img src="https://img.shields.io/badge/ACCESS_GATEWAY-LATTECODE.CN-black?style=outline&logo=codeforces&logoColor=EB9447" height="30" />
+        <a href="https://lattecode.net/">
+          <img src="https://img.shields.io/badge/ACCESS_GATEWAY-LATTECODE.NET-black?style=outline&logo=codeforces&logoColor=EB9447" height="30" />
         </a>
         <p><b>THE NEURAL BRIDGE FOR YOUR AI WORKFLOW</b></p>
         <p align="center"><i>Ultra-Stable API Distribution • Global Low-Latency Routing • Secure Scalability</i></p>
-        <a href="https://lattecode.cn/"><b>「 INITIALIZE CONNECTION 」</b></a>
+        <a href="https://lattecode.net/"><b>「 INITIALIZE CONNECTION 」</b></a>
         <br/><br/>
       </td>
     </tr>
