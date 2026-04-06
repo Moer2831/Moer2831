@@ -82,7 +82,7 @@
 
 <div align="center">
   <!-- Functional Badges -->
-  <a href="https://discord.gg/GvCKVegSbr"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/5QtF4AAbhk"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/Skynetmoer"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/Fantasy"><img src="https://img.shields.io/badge/-Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" /></a>
   <a href="mailto:Moer.mr@qq.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -98,7 +98,7 @@ graph LR
     User -- Gaming --> Steam[Steam: id/Fantasy]
     
     %% Functional Links for Mermaid
-    click Discord "https://discord.gg/GvCKVegSbr" "Join Discord"
+    click Discord "https://discord.gg/5QtF4AAbhk" "Join Discord"
     click Telegram "https://t.me/Skynetmoer" "Contact on Telegram"
     click Email "mailto:Moer.mr@qq.com" "Send Email"
     click Steam "https://steamcommunity.com/id/Fantasy" "View Steam Profile"
