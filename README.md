@@ -8,7 +8,6 @@
 </p>
 
 ## 🚀 IF I CAN EXCEL, SO CAN YOU
-**PCIe Transaction Layer Architect // DMA Memory Manipulator // Kernel Logic Designer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=INIT_PCIE_GEN4_LINK...;BYPASSING_IOMMU_BARRIERS...;STREAMING_HIGH_SPEED_DATA...;DMA_ENGINE_V2_LOADED.)](https://git.io/typing-svg)
 
