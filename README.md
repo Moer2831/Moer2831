@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ARTISTIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:000000,100:0984e3&height=280&section=header&text=MOER_ARCHIVE&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:000000,100:0984e3&height=280&section=header&text=MOER_Particle&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <p align="center">
   <img src="https://github.com/Moerre/image/blob/2a865530e11e3919a630adfcea3db2189a43b3c7/MoerLogo.png" width="120px" style="filter: drop-shadow(0 0 10px #3498db);"/>
